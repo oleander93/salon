@@ -32,7 +32,7 @@ header{
 .nawigacja{
     background-color: white;
 }
-
+.nawigacja a:link,
 .nawigacja a:visited{
     color: black;
 }
